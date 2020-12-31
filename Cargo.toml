@@ -14,6 +14,8 @@ keywords = [
 exclude = [".github", "rfcs"]
 repository = "https://github.com/oblique/async-tftp-rs"
 
+autobins=false
+
 [dependencies]
 thiserror = "1.0.22"
 bytes = "1.0.0"
